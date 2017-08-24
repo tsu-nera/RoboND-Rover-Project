@@ -3,8 +3,7 @@ This is a repository for Udacity Robotics Nanodegree Project1.
 - [udacity/RoboND\-Rover\-Project: Project repository for the Unity rover search and sample return project\.](https://github.com/udacity/RoboND-Rover-Project)
 
 Honestly, This project is difficult for me,
-so I followed the [workthrough video](https://www.youtube.com/watch?v=oJA6QHDPdQw),
-and made some modification to the code.
+so I followed the [workthrough video](https://www.youtube.com/watch?v=oJA6QHDPdQw).
 
 I'll describe this writeup with following the rubrics.
 - [Udacity Reviews](https://review.udacity.com/#!/rubrics/916/view)
