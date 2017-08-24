@@ -111,10 +111,12 @@ My simulator settings are,
 - Graphic quality: Good
 - Frame per second: 16-22
 
-The best result was
-- 82.5% map
-- 59.5% fidelity
+The result was
+- 54.1% map
+- 57.4% fidelity
 - 3 rocks located
+
+The result video is [here](https://youtu.be/_8c1yb37sws)(youtube)
 
 The Problems are
 - When facing big obstacls, rover stoped and can't move.
